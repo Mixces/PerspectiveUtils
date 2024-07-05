@@ -2,13 +2,16 @@
   {
     "modid": "${id}",
     "name": "${name}",
-    "description": "",
+    "description": "Perspective tweaks!",
     "version": "${version}",
     "mcversion": "${mcVersionStr}",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      "Your Name"
+      "DJtheRedstoner",
+      "imToggle",
+      "redth",
+      "Mixces"
     ],
     "credits": "",
     "logoFile": "",
